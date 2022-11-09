@@ -1,2 +1,2 @@
-# intropython
-Curso Introductorio de Programación en Python
+# Curso Introductorio de Programación en Python
+
